@@ -9,10 +9,10 @@ My interests include:
 * Research into alternative education metrics
 * Yoga
 * Watching dumb competition shows, like:
-  + !Forged in Fire, [Forged in Fire](https://static.next-episode.net/tv-shows-images/huge/forged-in-fire.jpg)
-  + Chopped, ![Chopped](https://www.seriouseats.com/images/2012/08/20120808-chopped.jpg)
-  + Blown Away, ![Blown Away](https://blog.cmog.org/wp-content/uploads/2019/07/BlownAway_1x1_POST.jpg)
-  + and Project Runway. ![and Project Runway](https://www.thewrap.com/wp-content/uploads/2020/01/Project-Runway.jpg)
+  + [Forged in Fire](https://www.history.com/shows/forged-in-fire) ![Forged in Fire](https://static.next-episode.net/tv-shows-images/huge/forged-in-fire.jpg)
+  + [Chopped](https://www.foodnetwork.com/shows/chopped) ![Chopped](https://www.seriouseats.com/images/2012/08/20120808-chopped.jpg)
+  + [Blown Away](https://en.wikipedia.org/wiki/Blown_Away_(TV_series)) ![Blown Away](https://blog.cmog.org/wp-content/uploads/2019/07/BlownAway_1x1_POST.jpg)
+  + and [Project Runway](https://www.bravotv.com/project-runway) ![and Project Runway](https://www.thewrap.com/wp-content/uploads/2020/01/Project-Runway.jpg)
 ***
 I have eclectic interests...
 ***
