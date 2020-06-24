@@ -9,16 +9,12 @@ My interests include:
 * Research into alternative education metrics
 * Yoga
 * Watching dumb competition shows, like:
-![Forged in Fire](https://static.next-episode.net/tv-shows-images/huge/forged-in-fire.jpg)
-Forged in Fire,
-![Chopped](https://www.seriouseats.com/images/2012/08/20120808-chopped.jpg)
-Chopped,
-![Blown Away](https://blog.cmog.org/wp-content/uploads/2019/07/BlownAway_1x1_POST.jpg)
-Blown Away,
-![and Project Runway](https://www.thewrap.com/wp-content/uploads/2020/01/Project-Runway.jpg)
-and Project Runway.
+  + !Forged in Fire, [Forged in Fire](https://static.next-episode.net/tv-shows-images/huge/forged-in-fire.jpg)
+  + Chopped, ![Chopped](https://www.seriouseats.com/images/2012/08/20120808-chopped.jpg)
+  + Blown Away, ![Blown Away](https://blog.cmog.org/wp-content/uploads/2019/07/BlownAway_1x1_POST.jpg)
+  + and Project Runway. ![and Project Runway](https://www.thewrap.com/wp-content/uploads/2020/01/Project-Runway.jpg)
 ***
-I have eclectic interests.
+I have eclectic interests...
 ***
 Even though I've learned a bit of Python in the past, I'm hoping this class will take me to the next level with my research.
 
